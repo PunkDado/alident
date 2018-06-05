@@ -132,7 +132,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">odontologia<br>especializada<br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-4\">A CLINICA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">TRATAMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-5\">Ortodontia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-5\">Clareamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-5\">Prótese</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-5\">Implantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-6\">Endodontia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-6\">Periodontia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-6\">Cirurgia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-6\">Odontopediatria</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-8\" aria-expanded=\"false\">NOSSA EQUIPE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#msg-box1-a\">MARQUE SUA CONSULTA<br>(41) 3324-7272</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-4\">A CLINICA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">TRATAMENTOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-5\">Ortodontia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-5\">Clareamento</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-5\">Prótese</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-5\">Implantes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-6\">Endodontia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-6\">Periodontia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-6\">Cirurgia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features1-6\">Odontopediatria</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box1-a\" aria-expanded=\"false\">LOCALIZAÇÃO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"tel:3324-7272\">MARQUE SUA CONSULTA<br>(41) 3324-7272</a></li>"
         },
         {
           "_tags": [
@@ -174,7 +174,7 @@
           },
           "title": "ODONTOLOGIA ESPECIALIZADA<br><div><br></div><div>A garantia da saúde bucal da sua família</div>",
           "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Quando se trata da saúde da sua família, você só quer o melhor. Na Alident Odontologia Especializada nós trazemos os tratamentos mais modernos e os melhores profissionais para para garantir a saúde bucal da sua família.&nbsp;</span><br><br>Com a Alident, você curte os sorrisos da sua família.&nbsp;<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;</span><br>",
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html#msg-box1-a\" data-toolbar=\"-mbrBtnMove\">MARQUE SUA CONSULTA<br>(41) 3324-7272<br></a>"
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"tel:3324-7272\" data-toolbar=\"-mbrBtnMove\">MARQUE SUA CONSULTA<br>(41) 3324-7272<br></a>"
         },
         {
           "_tags": [
@@ -202,7 +202,7 @@
                 "showText": true,
                 "text": "Na Alident você conta com a tecnologia dental mais moderna, para garantir mais conforto e segurança para você e sua família",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box1-a\" data-toolbar=\"-mbrBtnMove\">MARQUE SUA CONSULTA<br>(41) 3324-7272<br></a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:3324-7272\" data-toolbar=\"-mbrBtnMove\">MARQUE SUA CONSULTA<br>(41) 3324-7272<br></a> "
               },
               {
                 "active": false,
@@ -230,7 +230,7 @@
                 "showText": true,
                 "text": "Cada profissional da Alident tem uma preocupação especial com bem estar de cada paciente. O seu conforto e satisfação são a nossa prioridade.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box1-a\" data-toolbar=\"-mbrBtnMove\">MARQUE SUA CONSULTA<br>(41) 3324-7272<br></a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:3324-7272\" data-toolbar=\"-mbrBtnMove\">MARQUE SUA CONSULTA<br>(41) 3324-7272<br></a> "
               },
               {
                 "active": true,
@@ -539,7 +539,7 @@
           },
           "title": "Nossos dentistas",
           "text": "<br><br>Dra. Alicia Lemos<br>Dra. Tatiana Pizani<br>Dra. Cinthia Nawki<br>Dra. Loyane N. Fidelis<br>Dra. Talita Z. Damas<br>Dra. Camila Locateli<br>Dr. Fernando&nbsp;<br>Dra. Bruna Sabatini<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#msg-box1-a\" data-toolbar=\"-mbrBtnMove\">MARQUE SUA CONSULTA<br>(41) 3324-7272<br></a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:3324-7272\" data-toolbar=\"-mbrBtnMove\">MARQUE SUA CONSULTA<br>(41) 3324-7272<br></a>"
         },
         {
           "_tags": [
@@ -578,7 +578,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MARQUE SUA CONSULTA HOJE MESMO<br>(41) 3324-7272<br></a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tel:3324-7272\" data-toolbar=\"-mbrBtnMove\">MARQUE SUA CONSULTA HOJE MESMO<br>(41) 3324-7272<br></a>",
           "text": "ALIDENT ODONTOLOGIA ESPECIALIZADA<br>Rua Comendador Araujo, 510 - Sala 1603<br>Curitiba (PR)&nbsp;<br>",
           "title": "Marque sua consulta"
         },
