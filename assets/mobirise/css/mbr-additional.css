@@ -433,11 +433,11 @@ h6,
   color: #ffffff;
 }
 #menu-0 .link {
-  font-size: 0.75rem;
+  font-size: 0.9rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.975rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -483,7 +483,7 @@ h6,
   font-size: 14px;
 }
 #header1-3 .mbr-section-title {
-  font-size: 48px;
+  font-size: 36px;
   color: #efefef;
 }
 #header1-3 .mbr-section-lead {
@@ -519,4 +519,7 @@ h6,
 }
 #msg-box1-a H3 {
   color: #2969b0;
+}
+#footer1-d P {
+  color: #ffffff;
 }
