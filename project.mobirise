@@ -141,7 +141,7 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "36px",
+              "font-size": "30px",
               "color": "#efefef"
             },
             ".mbr-section-lead": {
@@ -150,6 +150,9 @@
             },
             ".mbr-section-lead SPAN": {
               "color": "#ffffff"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "36px"
             }
           },
           "_anchor": "header1-3",
@@ -172,7 +175,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "ODONTOLOGIA ESPECIALIZADA<br><div><br></div><div>A garantia da saúde bucal da sua família</div>",
+          "title": "<div>ODONTOLOGIA ESPECIALIZADA<br></div><br><div>A garantia da saúde bucal da sua família</div>",
           "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Quando se trata da saúde da sua família, você só quer o melhor. Na Alident Odontologia Especializada nós trazemos os tratamentos mais modernos e os melhores profissionais para para garantir a saúde bucal da sua família.&nbsp;</span><br><br>Com a Alident, você curte os sorrisos da sua família.&nbsp;<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;</span><br>",
           "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"tel:3324-7272\" data-toolbar=\"-mbrBtnMove\">MARQUE SUA CONSULTA<br>(41) 3324-7272<br></a>"
         },
@@ -249,7 +252,12 @@
             ]
           },
           "_anchor": "slider-4",
-          "articleLayout": false
+          "articleLayout": false,
+          "_styles": {
+            "H2": {
+              "font-size": "36px"
+            }
+          }
         },
         {
           "_tags": [
@@ -460,7 +468,7 @@
           },
           "title3": "Cirurgia",
           "subtitle3": "Só para quem tem juízo...",
-          "caption3": "A cirurgia pode ser necessária quando algum dente deve ser extraído. O caso mais comum é o do ciso, que na maioria das pessoas deve ser extraído logo na chagada à vida adulta.",
+          "caption3": "A cirurgia pode ser necessária quando algum dente deve ser extraído. O caso mais comum é o do ciso, que na maioria das pessoas deve ser extraído logo na chegada à vida adulta.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {

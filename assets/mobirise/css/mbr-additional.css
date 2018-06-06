@@ -483,7 +483,7 @@ h6,
   font-size: 14px;
 }
 #header1-3 .mbr-section-title {
-  font-size: 36px;
+  font-size: 30px;
   color: #efefef;
 }
 #header1-3 .mbr-section-lead {
@@ -492,6 +492,12 @@ h6,
 }
 #header1-3 .mbr-section-lead SPAN {
   color: #ffffff;
+}
+#header1-3 .mbr-section-title DIV {
+  font-size: 36px;
+}
+#slider-4 H2 {
+  font-size: 36px;
 }
 #features1-5 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2969b0;
