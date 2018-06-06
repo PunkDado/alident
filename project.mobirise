@@ -280,8 +280,8 @@
             "ShowTexts": true,
             "showButtons": false,
             "columnsColor": "#2969b0",
-            "paddingTop": 2,
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "columns": 4,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
@@ -298,14 +298,13 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/orto-600x378.png",
+              "src": "@PROJECT_PATH@/assets/images/convencional-estetico-sn-600x579.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "alt": "Aparelho convencional e estético",
+              "title": "Aparelho convencional e estético"
             }
           },
           "title1": "Ortodontia",
@@ -319,9 +318,8 @@
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "alt": "Clareamento",
+              "title": "clareamento"
             }
           },
           "title2": "Clareamento",
